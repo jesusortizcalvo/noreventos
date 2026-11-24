@@ -4,7 +4,7 @@
 const CONFIG = {
   whatsapp: '',     // ej. '34600000000' (sin + ni espacios)
   phone: '',        // ej. '600 000 000'
-  email: '',        // ej. 'hola@noreventos.com'
+  email: 'info@noreventos.es',
   instagram: '',    // ej. 'noreventos'
   zone: 'Santander · Cantabria'
 };
